@@ -1,3 +1,4 @@
+![logo](https://github.com/Ganesh1972/Ganesh1972/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Ganesh Sapkal</h1>
 <h2 align="center">A Passionate Frontend Developer & DSA Enthusiast</h2>
 
